@@ -56,10 +56,11 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
         - link die je misschien nodig hebt: http://links.mead.io/uuidv4
     - checkbox challenge
     - the edit note page part I 
-        - toevoegen van hyperlink in html
-        - 
+        - toevoegen van hyperlink in html => zou gekend moeten zijn
+        - url & location and id => dit zal je in de toekomst in Java ook gebruiken, dus goed dat je dit al eens gezien hebt
+    - the edit note page part II    
         
-Ik ben zelf tot hier geraakt: “edit note page part I”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
+Ik ben zelf tot hier geraakt: “edit note page part II”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
 
 ondertussen op 1.5 speed, de concentratie is aan het verslappen
 
