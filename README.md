@@ -18,9 +18,11 @@ deze kan je typen adhv: ctrl+alt+µ
 
 ---
 
-Hoewel de Bootcamp van Andrew Mead te lang is om binnen de lesdagen volledig door te nemen, blijf ik wel overtuigd dat zijn manier van opdrachtgewijs  uitleg te geven zeer leerrijk is.
+Hoewel de Bootcamp van Andrew Mead te lang is om binnen de lesdagen volledig door te nemen, 
+blijf ik wel overtuigd dat zijn manier van opdrachtgewijs  uitleg te geven zeer leerrijk is.
 
-ik merk dat er in hoofdstuk 5 veel opdrachten zitten, ik denk dat het tijdsgewijs moeilijk is om ze allemaal zelfstandig te maken.
+ik merk dat er in hoofdstuk 5 veel opdrachten zitten, 
+ik denk dat het tijdsgewijs moeilijk is om ze allemaal zelfstandig te maken.
 
 -	Te maken oefeningen (deze zou je echt zelf moeten proberen maken, de rest kan je ook maken of mee volgen):
     -	chapter 5: 
@@ -28,17 +30,25 @@ ik merk dat er in hoofdstuk 5 veel opdrachten zitten, ik denk dat het tijdsgewij
         -	password
 
 Beste situatie zou zijn dat je alle onderdelen kan doornemen, 
-maar indien je in tijdsnood komt zorg dan dat je onderstaande zeker bekijkt ** en de oefeningen probeert te maken **:
-Voordeel van deze tutorial is dat je deze later eventueel nog eens kan bekijken.
+maar indien je in tijdsnood komt zorg dan dat je onderstaande zeker bekijkt **en de oefeningen probeert te maken**:
 
--	Chapter 6 - Arrays: 
+Je mag *alle* onderdelen rustig doornemen natuurlijk, van mij ben je niet verplicht om stukken over te slaan, 
+voordeel van deze tutorial is dat je deze later eventueel nog eens kan bekijken.
+
+-	Chapter 6 : Arrays: 
     -	Looping over Arrays (callback function)
     -	Searching Arrays part I and II
     -	Filtering Arrays
--	Chapter 7
-    -	Vanaf onderdeel DOM manipulation (Hij installeert in de vorige onderdelen live-server om webpages te renderen, dit hebben we (voorlopig) niet nodig je kan de index.html openen op dezelfde manier als je altijd deed)
+-	Chapter 7 : JavaScript in the Browser
+    -	Vanaf onderdeel DOM manipulation (Hij installeert in de vorige onderdelen live-server om webpages te renderen, 
+    dit hebben we (voorlopig) niet nodig je kan de index.html openen op dezelfde manier als je altijd deed)
+    - Formulieren zal je sowieso gebruiken in je Java eindproject, 
+    je zal hier waarschijnlijk geen JavaScript voor gebruiken, maar het is wel nuttig om het al eens door te nemen, 
+    zodat je al een idee hebt hoe je hiermee zal werken in de toekomst (zelfs als het in een andere taal is)
+- Chapter 8: Data Storage, Libraries, and More
+    - 
 
-Ik ben zelf nog niet verder geraakt dan “Working with Forms”
+Ik ben zelf tot hier geraakt: “einde chapter 7”
 
 PS: doordat ik dit in versnelde versie doorneem (aan snelheid x2), 
 kan het natuurlijk dat ik hier of daar een finesse gemist heb, 
