@@ -49,8 +49,16 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
     - (In je Java eindproject zal je data met SQL wegschrijven, maar soms wil je niet met een externe database werken)
     - hier leer je de local storage te gebruiken
     - JSON gebruiken om met objecten te kunnen werken in local storage 
+    - refactoring code
 
-Ik ben zelf tot hier geraakt: “local storage part I”
+Ik ben zelf tot hier geraakt: “Debugging”
+
+**We touch base at:**
+- 11.45
+- 13.00
+- 15.45
+**Op die momenten kom je sowieso even online met Zoom**
+
 
 ---
 -   Chapter 9: Expanding Our JavaScript Knowledge
