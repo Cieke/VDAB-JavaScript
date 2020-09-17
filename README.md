@@ -47,7 +47,7 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
     zodat je al een idee hebt hoe je hiermee zal werken in de toekomst (zelfs als het in een andere taal is)
 -   Chapter 8: Data Storage, Libraries, and More
     - In je Java eindproject zal je data met SQL wegschrijven
-
+    - hier leer je de local storage te gebruiken
 
 Ik ben zelf tot hier geraakt: “einde chapter 7”
 
