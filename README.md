@@ -33,7 +33,7 @@ Beste situatie zou zijn dat je alle onderdelen kan doornemen,
 maar indien je in tijdsnood komt zorg dan dat je onderstaande zeker bekijkt **en de oefeningen probeert te maken**:
 
 Je mag *alle* onderdelen rustig doornemen natuurlijk, van mij ben je niet verplicht om stukken over te slaan, 
-voordeel van deze tutorial is dat je deze later eventueel nog eens kan bekijken.
+maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je deze later eventueel nog eens kan bekijken.
 
 -	Chapter 6 : Arrays: 
     -	Looping over Arrays (callback function)
@@ -45,7 +45,7 @@ voordeel van deze tutorial is dat je deze later eventueel nog eens kan bekijken.
     - Formulieren zal je sowieso gebruiken in je Java eindproject, 
     je zal hier waarschijnlijk geen JavaScript voor gebruiken, maar het is wel nuttig om het al eens door te nemen, 
     zodat je al een idee hebt hoe je hiermee zal werken in de toekomst (zelfs als het in een andere taal is)
-- Chapter 8: Data Storage, Libraries, and More
+-   Chapter 8: Data Storage, Libraries, and More
     - 
 
 Ik ben zelf tot hier geraakt: “einde chapter 7”
