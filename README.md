@@ -50,8 +50,10 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
     - hier leer je de local storage te gebruiken
     - JSON gebruiken om met objecten te kunnen werken in local storage 
     - refactoring code
+    - debugging
 
-Ik ben zelf tot hier geraakt: “Debugging”
+Ik ben zelf tot hier geraakt: “Complex DOM Rendering”, 
+ondertussen op 1.5 speed, de concentratie is aan het verslappen, tijd voor pauze :-)
 
 **We touch base at:**
 - 11.45
