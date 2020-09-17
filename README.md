@@ -48,8 +48,9 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
 -   Chapter 8: Data Storage, Libraries, and More
     - In je Java eindproject zal je data met SQL wegschrijven
     - hier leer je de local storage te gebruiken
+    - JSON gebruiken om met objecten te kunnen werken in local storage 
 
-Ik ben zelf tot hier geraakt: “einde chapter 7”
+Ik ben zelf tot hier geraakt: “local storage part I”
 
 ---
 -   Chapter 9: Expanding Our JavaScript Knowledge
