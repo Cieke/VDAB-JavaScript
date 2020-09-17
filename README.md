@@ -57,6 +57,7 @@ Ik ben zelf tot hier geraakt: “Debugging”
 - 11.45
 - 13.00
 - 15.45
+
 **Op die momenten kom je sowieso even online met Zoom**
 
 
