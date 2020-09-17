@@ -7,8 +7,9 @@ https://github.com/PacktPublishing/The-Modern-JavaScript-Bootcamp-2019/blob/mast
 
 ---
 om de waarde te tonen in volgende geval:
-    return `${name}`
-
+```javascript    
+return `${name}`
+```
 moet je een backtick gebruiken: `
 
 deze kan je typen adhv: ctrl+alt+µ
@@ -26,7 +27,9 @@ ik merk dat er in hoofdstuk 5 veel opdrachten zitten, ik denk dat het tijdsgewij
         -	expense tracker 
         -	password
 
-Beste situatie zou zijn dat je alle onderdelen kan doornemen, maar indien je in tijdsnood komt zorg dan dat je onderstaande zeker bekijkt:
+Beste situatie zou zijn dat je alle onderdelen kan doornemen, 
+maar indien je in tijdsnood komt zorg dan dat je onderstaande zeker bekijkt <mark> en de oefening probeert te maken </mark>:
+Voordeel van deze tutorial is dat je deze later eventueel nog eens kan bekijken.
 
 -	Chapter 6 - Arrays: 
     -	Looping over Arrays (callback function)
@@ -35,5 +38,8 @@ Beste situatie zou zijn dat je alle onderdelen kan doornemen, maar indien je in 
 -	Chapter 7
     -	Vanaf onderdeel DOM manipulation (Hij installeert in de vorige onderdelen live-server om webpages te renderen, dit hebben we (voorlopig) niet nodig je kan de index.html openen op dezelfde manier als je altijd deed)
 
-Ik ben zelf nog niet verder geraakt dan “Rendering Our Filtered Data”
+Ik ben zelf nog niet verder geraakt dan “Working with Forms”
 
+PS: doordat ik dit in versnelde versie doorneem (aan snelheid x2), 
+kan het natuurlijk dat ik hier of daar een finesse gemist heb, 
+indien je vragen zou hebben (bv meer uitleg over topic) stel ze dan gerust
