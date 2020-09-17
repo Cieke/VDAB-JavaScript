@@ -55,8 +55,11 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
     - Third-Party Library: gebruik maken van bestaande code(projecten), dit wordt vaak gedaan in bv JQuery en React(Native)
         - link die je misschien nodig hebt: http://links.mead.io/uuidv4
     - checkbox challenge
+    - the edit note page part I 
+        - toevoegen van hyperlink in html
+        - 
         
-Ik ben zelf tot hier geraakt: “checkbox challenge”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
+Ik ben zelf tot hier geraakt: “edit note page part I”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
 
 ondertussen op 1.5 speed, de concentratie is aan het verslappen
 
