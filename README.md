@@ -50,7 +50,7 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
     - hier leer je de local storage te gebruiken
     - JSON gebruiken om met objecten te kunnen werken in local storage 
     - refactoring code
-    - debugging
+    - **debugging**
     - DOM rendering: de onderdelen van je html pagina verder opbouwen 
     - Third-Party Library: gebruik maken van bestaande code(projecten), dit wordt vaak gedaan in bv JQuery en React(Native)
         - link die je misschien nodig hebt: http://links.mead.io/uuidv4
@@ -77,7 +77,7 @@ ondertussen op 1.5 speed, de concentratie is aan het verslappen, tijd voor pauze
 -   Chapter 13: Babel and Webpack
     - hoe ervoor zorgen dat je nieuwe JavaScript programma kan gebruikt worden in oudere browsers, ook in Internet Explorer
 
-
+todo Nancy: een grotere opdracht geven waarin je zo goed als alle geziene materie kan toepassen
 
 PS: doordat ik dit in versnelde versie doorneem (aan snelheid x2), 
 kan het natuurlijk dat ik hier of daar een finesse gemist heb, 
