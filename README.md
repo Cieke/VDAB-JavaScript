@@ -28,7 +28,7 @@ ik merk dat er in hoofdstuk 5 veel opdrachten zitten, ik denk dat het tijdsgewij
         -	password
 
 Beste situatie zou zijn dat je alle onderdelen kan doornemen, 
-maar indien je in tijdsnood komt zorg dan dat je onderstaande zeker bekijkt <mark> en de oefening probeert te maken </mark>:
+maar indien je in tijdsnood komt zorg dan dat je onderstaande zeker bekijkt ** en de oefeningen probeert te maken **:
 Voordeel van deze tutorial is dat je deze later eventueel nog eens kan bekijken.
 
 -	Chapter 6 - Arrays: 
