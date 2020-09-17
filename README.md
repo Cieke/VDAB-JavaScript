@@ -60,9 +60,11 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
         - url & location and id => dit zal je in de toekomst in Java ook gebruiken, dus goed dat je dit al eens gezien hebt
     - the edit note page part II    
         - data meesturen naar een andere pagina
-        
-        
-Ik ben zelf tot hier geraakt: “edit note page part II”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
+    **merken jullie dat dit meer en meer begint te lijken op een professionele applicatie?**    
+    - synching data across pages
+        - listen for changes in local storage
+            
+Ik ben zelf tot hier geraakt: “synching data across pages”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
 
 ondertussen op 1.5 speed, de concentratie is aan het verslappen
 
