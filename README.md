@@ -62,9 +62,10 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
         - data meesturen naar een andere pagina
     **merken jullie dat dit meer en meer begint te lijken op een professionele applicatie?**    
     - synching data across pages
-        - listen for changes in local storage
+        - listen for changes in local storage using Event Listeners
+    - JavaScript Dates
             
-Ik ben zelf tot hier geraakt: “synching data across pages”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
+Ik ben zelf tot hier geraakt: “JS dates”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
 
 ondertussen op 1.5 speed, de concentratie is aan het verslappen
 
