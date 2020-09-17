@@ -46,9 +46,23 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
     je zal hier waarschijnlijk geen JavaScript voor gebruiken, maar het is wel nuttig om het al eens door te nemen, 
     zodat je al een idee hebt hoe je hiermee zal werken in de toekomst (zelfs als het in een andere taal is)
 -   Chapter 8: Data Storage, Libraries, and More
-    - 
+    - In je Java eindproject zal je data met SQL wegschrijven
+
 
 Ik ben zelf tot hier geraakt: “einde chapter 7”
+
+---
+-   Chapter 9: Expanding Our JavaScript Knowledge
+    - Arrow Functions (Lambdas)
+-   Chapter 10: Advanced Objects and Functions
+    - Object georiënteerd programmeren met JavaScript
+-   Chapter 11: Asynchronous JavaScript
+-   Chapter 12: App Themes
+    - css toevoegen 
+-   Chapter 13: Babel and Webpack
+    - hoe ervoor zorgen dat je nieuwe JavaScript programma kan gebruikt worden in oudere browsers, ook in Internet Explorer
+
+
 
 PS: doordat ik dit in versnelde versie doorneem (aan snelheid x2), 
 kan het natuurlijk dat ik hier of daar een finesse gemist heb, 
