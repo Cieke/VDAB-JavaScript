@@ -64,7 +64,8 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
     - synching data across pages
         - listen for changes in local storage using Event Listeners
     - JavaScript Dates
-            
+        - sort your notes by created date
+        
 Ik ben zelf tot hier geraakt: “JS dates”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
 
 ondertussen op 1.5 speed, de concentratie is aan het verslappen
