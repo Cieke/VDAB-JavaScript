@@ -54,9 +54,11 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
     - DOM rendering: de onderdelen van je html pagina verder opbouwen 
     - Third-Party Library: gebruik maken van bestaande code(projecten), dit wordt vaak gedaan in bv JQuery en React(Native)
         - link die je misschien nodig hebt: http://links.mead.io/uuidv4
+    - checkbox challenge
         
-Ik ben zelf tot hier geraakt: “Third-Party Library”, 
-ondertussen op 1.5 speed, de concentratie is aan het verslappen, tijd voor pauze :-)
+Ik ben zelf tot hier geraakt: “checkbox challenge”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
+
+ondertussen op 1.5 speed, de concentratie is aan het verslappen
 
 **We touch base at:**
 - 11.45
