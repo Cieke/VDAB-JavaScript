@@ -59,6 +59,8 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
         - toevoegen van hyperlink in html => zou gekend moeten zijn
         - url & location and id => dit zal je in de toekomst in Java ook gebruiken, dus goed dat je dit al eens gezien hebt
     - the edit note page part II    
+        - data meesturen naar een andere pagina
+        
         
 Ik ben zelf tot hier geraakt: “edit note page part II”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
 
