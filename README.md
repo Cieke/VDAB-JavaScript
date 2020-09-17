@@ -53,7 +53,8 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
     - debugging
     - DOM rendering: de onderdelen van je html pagina verder opbouwen 
     - Third-Party Library: gebruik maken van bestaande code(projecten), dit wordt vaak gedaan in bv JQuery en React(Native)
-    
+        - link die je misschien nodig hebt: http://links.mead.io/uuidv4
+        
 Ik ben zelf tot hier geraakt: “Third-Party Library”, 
 ondertussen op 1.5 speed, de concentratie is aan het verslappen, tijd voor pauze :-)
 
