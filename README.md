@@ -27,12 +27,13 @@ ik merk dat er in hoofdstuk 5 veel opdrachten zitten, ik denk dat het tijdsgewij
         -	password
 
 Beste situatie zou zijn dat je alle onderdelen kan doornemen, maar indien je in tijdsnood komt zorg dan dat je onderstaande zeker bekijkt:
-    -	Chapter 6 - Arrays: 
-        -	Looping over Arrays (callback function)
-        -	Searching Arrays part I and II
-        -	Filtering Arrays
-    -	Chapter 7
-        -	Vanaf onderdeel DOM manipulation (Hij installeert in de vorige onderdelen live-server om webpages te renderen, dit hebben we (voorlopig) niet nodig je kan de index.html openen op dezelfde manier als je altijd deed)
+
+-	Chapter 6 - Arrays: 
+    -	Looping over Arrays (callback function)
+    -	Searching Arrays part I and II
+    -	Filtering Arrays
+-	Chapter 7
+    -	Vanaf onderdeel DOM manipulation (Hij installeert in de vorige onderdelen live-server om webpages te renderen, dit hebben we (voorlopig) niet nodig je kan de index.html openen op dezelfde manier als je altijd deed)
 
 Ik ben zelf nog niet verder geraakt dan “Handling User Interaction”
 
