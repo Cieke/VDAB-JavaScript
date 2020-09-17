@@ -51,8 +51,10 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
     - JSON gebruiken om met objecten te kunnen werken in local storage 
     - refactoring code
     - debugging
-
-Ik ben zelf tot hier geraakt: “Complex DOM Rendering”, 
+    - DOM rendering: de onderdelen van je html pagina verder opbouwen 
+    - Third-Party Library: gebruik maken van bestaande code(projecten), dit wordt vaak gedaan in bv JQuery en React(Native)
+    
+Ik ben zelf tot hier geraakt: “Third-Party Library”, 
 ondertussen op 1.5 speed, de concentratie is aan het verslappen, tijd voor pauze :-)
 
 **We touch base at:**
