@@ -80,6 +80,7 @@ hij stelt voor take a break
      - ternary operator (zelfde als in andere talen)   en arrow function
      - true en false vs truthy and falsy   
      - type coercion: uitleg over wat er achter de schermen gebeurd bij het vorige deel
+     - try-catch
         
 Ik ben zelf tot hier geraakt: “chapter 9”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
 
