@@ -71,7 +71,10 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
     - integrating dates
         - werken met datum (oa sorteren)    
  -   Chapter 9: Expanding Our JavaScript Knowledge
-     - Arrow Functions (Lambdas)        
+     - Arrow Functions (Lambdas) 
+        - uitleg over invloed op arguments en unbound this
+        
+        
         
 Ik ben zelf tot hier geraakt: “chapter 9”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
 
