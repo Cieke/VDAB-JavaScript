@@ -70,12 +70,16 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
         - format date
     - integrating dates
         - werken met datum (oa sorteren)    
+
+hij stelt voor take a break
+
 -   Chapter 9: Expanding Our JavaScript Knowledge
      - Arrow Functions (Lambdas) 
         - uitleg over invloed op arguments en unbound this
         - hier worden alle functies die kunnen omgezet, ook omgezet naar lambda's
      - ternary operator (zelfde als in andere talen)   en arrow function
      - true en false vs truthy and falsy   
+     - type coercion: uitleg over wat er achter de schermen gebeurd bij het vorige deel
         
 Ik ben zelf tot hier geraakt: “chapter 9”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
 
