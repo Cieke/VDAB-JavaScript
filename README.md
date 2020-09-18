@@ -65,10 +65,17 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
         - listen for changes in local storage using Event Listeners
     - JavaScript Dates
         - sort your notes by created date
+        - opgelet met de index
+    - moment
+        - format date
+    - integrating dates
+        - werken met datum (oa sorteren)    
+ -   Chapter 9: Expanding Our JavaScript Knowledge
+     - Arrow Functions (Lambdas)        
         
-Ik ben zelf tot hier geraakt: “JS dates”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
+Ik ben zelf tot hier geraakt: “chapter 9”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
 
-ondertussen op 1.5 speed, de concentratie is aan het verslappen
+
 
 **We touch base at:**
 - 11.45
@@ -79,8 +86,7 @@ ondertussen op 1.5 speed, de concentratie is aan het verslappen
 
 
 ---
--   Chapter 9: Expanding Our JavaScript Knowledge
-    - Arrow Functions (Lambdas)
+
 -   Chapter 10: Advanced Objects and Functions
     - Object georiënteerd programmeren met JavaScript
 -   Chapter 11: Asynchronous JavaScript
