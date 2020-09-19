@@ -95,11 +95,19 @@ hij stelt voor: take a break
             JS is a prototype-based language
             While object-oriented programming languages encourages development focus on taxonomy and relationships, 
             prototype-based programming languages encourages to focus on behavior first and then later classify.
-    - 
-    
-Ik ben zelf tot hier geraakt: einde “chapter 9”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
-
-
+        - starting on the hangman game   
+    -  setting up the prototype object
+        - prototypal inheritence
+        - setters and getters
+    - hangman challenge
+    - digging into prototypical inheritance
+        - uitleg over hoe dit achter de schermen werkt
+    - primitives and objects
+    - hangman challenge
+    - the class syntax
+    - creating subclasses
+    - getters and setters
+    - fixin an edge case
 
 **We touch base at:**
 - 11.45
