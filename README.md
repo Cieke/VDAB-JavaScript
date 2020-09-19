@@ -71,7 +71,9 @@ maar als je stukken zou overslaan dan is het voordeel van deze tutorial dat je d
     - integrating dates
         - werken met datum (oa sorteren)    
 
-hij stelt voor take a break
+hij stelt voor: take a break
+
+---
 
 -   Chapter 9: Expanding Our JavaScript Knowledge
      - Arrow Functions (Lambdas) 
@@ -81,7 +83,20 @@ hij stelt voor take a break
      - true en false vs truthy and falsy   
      - type coercion: uitleg over wat er achter de schermen gebeurd bij het vorige deel
      - try-catch
-     - strict mode   
+     - strict mode en waarom je het zou gebruiken  
+
+---
+
+-   Chapter 10: Advanced Objects and Functions
+    - Object georiënteerd programmeren met JavaScript
+    - Constructor functions
+        - "classes": 
+            - JavaScript is object-oriented, but is not a class-based object-oriented language like Java, 
+            JS is a prototype-based language
+            While object-oriented programming languages encourages development focus on taxonomy and relationships, 
+            prototype-based programming languages encourages to focus on behavior first and then later classify.
+    - 
+    
 Ik ben zelf tot hier geraakt: einde “chapter 9”,  ik maak de oefeningen zelf niet ter info, dit puur omwille van tijd
 
 
@@ -94,10 +109,7 @@ Ik ben zelf tot hier geraakt: einde “chapter 9”,  ik maak de oefeningen zelf
 **Op die momenten kom je sowieso even online met Zoom**
 
 
----
 
--   Chapter 10: Advanced Objects and Functions
-    - Object georiënteerd programmeren met JavaScript
 -   Chapter 11: Asynchronous JavaScript
 -   Chapter 12: App Themes
     - css toevoegen 
