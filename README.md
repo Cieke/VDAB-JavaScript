@@ -102,12 +102,40 @@ hij stelt voor: take a break
     - hangman challenge
     - digging into prototypical inheritance
         - uitleg over hoe dit achter de schermen werkt
+        - works differently from Java
     - primitives and objects
+        - live server for hangman
+            - je hoeft live server niet te gebruiken
+        - hasOwnProperty method
+        - creating an object with literal syntax    
     - hangman challenge
+        - wrapper
+        - why string can be classified as object
+        - user input in the game
+        - game from the console to the browser
+        - status of the game
+        - array method every
+        - adding more user friendly messages
     - the class syntax
+        - alternative way to create a constructor
     - creating subclasses
+        - using prototypical inheritance
+        - create an employee (extending a person)
+        - create a student
     - getters and setters
-    - fixin an edge case
+        - custom getters and setters
+    - fixing an edge case
+        - problem in the hangman game: multiple words with a space
+
+---
+
+
+-   Chapter 11: Asynchronous JavaScript
+    - http-request (met live server, uit te proberen met node.js, de manier die ik vorige week gaf: 
+     npm install en dan npm run start)
+    
+
+---
 
 **We touch base at:**
 - 11.45
@@ -118,7 +146,6 @@ hij stelt voor: take a break
 
 
 
--   Chapter 11: Asynchronous JavaScript
 -   Chapter 12: App Themes
     - css toevoegen 
 -   Chapter 13: Babel and Webpack
