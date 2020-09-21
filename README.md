@@ -133,7 +133,8 @@ hij stelt voor: take a break
 -   Chapter 11: Asynchronous JavaScript
     - http-request (met live server, uit te proberen met node.js, de manier die ik vorige week gaf: 
      npm install en dan npm run start)
-    
+    - http details
+        - status
 
 ---
 
@@ -147,7 +148,8 @@ hij stelt voor: take a break
 
 
 -   Chapter 12: App Themes
-    - css toevoegen 
+    - css toevoegen
+    - zit niet in de pdf 
 -   Chapter 13: Babel and Webpack
     - hoe ervoor zorgen dat je nieuwe JavaScript programma kan gebruikt worden in oudere browsers, ook in Internet Explorer
 
