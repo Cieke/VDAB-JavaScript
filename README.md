@@ -153,6 +153,11 @@ hij stelt voor: take a break
 -   Chapter 13: Babel and Webpack
     - hoe ervoor zorgen dat je nieuwe JavaScript programma kan gebruikt worden in oudere browsers, ook in Internet Explorer
 
+
+
+**alle afgewerkte oefeningen kan je hier terug vinden:**
+**https://github.com/PacktPublishing/The-Modern-JavaScript-Bootcamp-2019**
+
 todo Nancy: een grotere opdracht geven waarin je zo goed als alle geziene materie kan toepassen
 
 PS: doordat ik dit in versnelde versie doorneem (aan snelheid x2), 
