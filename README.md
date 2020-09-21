@@ -138,18 +138,12 @@ hij stelt voor: take a break
 
 ---
 
-**We touch base at:**
-- 11.45
-- 13.00
-- 15.45
-
-**Op die momenten kom je sowieso even online met Zoom**
-
-
-
 -   Chapter 12: App Themes
     - css toevoegen
     - zit niet in de pdf 
+
+---
+
 -   Chapter 13: Babel and Webpack
     - hoe ervoor zorgen dat je nieuwe JavaScript programma kan gebruikt worden in oudere browsers, ook in Internet Explorer
 
@@ -158,8 +152,13 @@ hij stelt voor: take a break
 **alle afgewerkte oefeningen kan je hier terug vinden:**
 **https://github.com/PacktPublishing/The-Modern-JavaScript-Bootcamp-2019**
 
-todo Nancy: een grotere opdracht geven waarin je zo goed als alle geziene materie kan toepassen
+- Andere oefening:
 
-PS: doordat ik dit in versnelde versie doorneem (aan snelheid x2), 
-kan het natuurlijk dat ik hier of daar een finesse gemist heb, 
-indien je vragen zou hebben (bv meer uitleg over topic) stel ze dan gerust
+In de folder "oefening" vind je alvast de JSON-file waarover ik het daarnet had: Kings.
+Je kan op een site gegevens van deze file tonen als aparte deeltjes.
+
+Ik zal ook de opdracht gedetailleerder uitschrijven en de oplossing posten.
+
+In de folder zal ik ook een boeken-oefening steken.
+
+Ik probeer dit morgenochtend 22/9 allemaal in orde te brengen voor jullie
