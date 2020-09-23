@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<h2>English Monarchs</h2>
+<p id="no-script">You do not have JavaScript enabled! For a better experience, please use a
+    JavaScript enabled browser!</p>
+
+<p id="demo"></p>
+
+<script>
+
+    document.querySelector('#no-script').remove();// normally you would use the no script-tag instead of an id, this is just to show another possibility
+
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            var myObj = JSON.parse(this.responseText);
+            document.getElementById("demo").innerHTML = myObj[0].nm;
+        }
+    };
+    xmlhttp.open("GET", "data.txt", true);
+    xmlhttp.send();
+</script>
+
+</body>
+</html>

@@ -156,6 +156,14 @@ hij stelt voor: take a break
 
 In de folder "oefening" vind je alvast de JSON-file waarover ik het daarnet had: Kings.
 Je kan op een site gegevens van deze file tonen als aparte deeltjes.
+- In de file "data" zie je de JSON-structuur van koningen van Engeland: 
+nm: naam, cty: land, hse: house, yrs: regeringsperiode
+
+Probeer deze gegevens per koning op een html-pagina te tonen, maak een onderdeel (div) per koning met daarin zijn gegevens.
+Je kan de naam van de koning ook bv in een h1 plaatsen voor de leesbaarheid.
+
+Extra: zorg voor een "Read more", deze link zal de gebruiker naar de wikipedia-pagina van de respectievelijke koning leiden.
+
 
 Ik zal ook de opdracht gedetailleerder uitschrijven en de oplossing posten.
 
